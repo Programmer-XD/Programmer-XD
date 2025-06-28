@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/akito_yamada_xd">
-    <img src="[https://te.legra.ph/file/8b7284165dc2e36c34cd9.jpg](https://i.ibb.co/d07CJDXZ/image.jpg)" alt="Ayanokoji" height="400"/>
+    <img src="[https://te.legra.ph/file/8b7284165dc2e36c34cd9.jpg](https://i.ibb.co/d07CJDXZ/image.jpg)" alt="Ayanokoji" height="200"/>
   </a>
 </p>
 
