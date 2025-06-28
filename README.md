@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://t.me/akito_yamada_xd">
-    <img src="[https://te.legra.ph/file/8b7284165dc2e36c34cd9.jpg](https://files.catbox.moe/1bt91y.jpg))" alt="Ayanokoji" height="200"/>
+    <img src="https://files.catbox.moe/1bt91y.jpg" alt="Ayanokoji" height="280"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishikki-akabane">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20and%20App%20Developer;Creative%20Telegram%20Bot%20Designer;Coding%20since%20Childhood;Always%20Exploring%20New%20Tech&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <a href="https://github.com/Programmer-XD">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20and%20App%20Developer;Creative%20Telegram%20Bot%20Designer;Coding%20since%20Childhood;Always%20Exploring%20New%20Tech&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=24" />
   </a>
 </p>
 
