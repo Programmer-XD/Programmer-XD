@@ -26,7 +26,7 @@
 - 🎩 Madly obsessed with **Nexus** (*it’s also a secret code for my crush 🫣*)
 - 📬 Reach me via smoke signals or:
   - ✉️ @gmail.com
-  - 💬 [Telegram](https://telegram.me/akito_yamada_xd)
+  - 💬 [Telegram](https://telegram.me/akitoxd)
 
 ---
 
@@ -74,31 +74,31 @@
 
 <p align="center">
   Visitor Counter<br>
-  <img src="https://profile-counter.glitch.me/ishikki-akabane/count.svg" />
+  <img src="https://profile-counter.glitch.me/programmer-xd/count.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=ishikki-akabane&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://github-contribution-stats.vercel.app/api?username=programmer-xd&count_private=true&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ishikki-akabane&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=programmer-xd&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishikki-akabane&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=programmer-xd&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=ishikki-akabane&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=programmer-xd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikki-akabane&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-xd&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishikki-akabane&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=programmer-xd&theme=onedark" />
 </p>
 
 ---
@@ -109,23 +109,11 @@
   <a href="https://telegram.me/ishikki_akabane">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@ishikki_akabane">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:ishikkiakabane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ishikki-akabane">
+  <a href="https://github.com/programmer-xd">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/ishikki_akabane/">
+  <a href="https://www.instagram.com/damn_samar/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://in.pinterest.com/ishikki_akabane/">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/19692121/ishikki-akabane">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
 </p>
 
@@ -134,7 +122,4 @@
 ## 💬 Ask Me Anything
 
 Want to say hi, or curious about something I made?  
-👉 [Drop an issue here](https://github.com/ishikki-akabane/ishikki-akabane/issues)
-
----
-
+👉 [Drop an issue here](https://github.com/programmer-xd/programmer-xd/issues)
