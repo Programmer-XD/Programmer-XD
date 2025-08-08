@@ -15,11 +15,11 @@
 ## 👋 Who Am I?
 
 <p align="center">
-  <b>Hey, I’m Samar from Maharashtra — but most people know me online as Ayankoji Kiyotaka.</b><br>
+  <b>Hey, I’m Samar from Maharashtra — but most people know me online as Akito / Melon.</b><br>
   <i>An introverted developer with wild ideas and a keyboard to match.</i>
 </p>
 
-- 🎓 Currently in my **12th**
+- 🎓 Interested in Programming.
 - 💻 Learning **C++** (because coffee isn't strong enough)
 - 🐉 Building **FOREST OF SAVIOUR**, a Telegram fantasy RPG bot — think *Game of Thrones*, but with more dragons and zero politics
 - 🤝 Dreaming of working with cool devs someday — still fighting my shy turtle shell
