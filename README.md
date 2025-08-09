@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/akitoxd">
-    <img src="https://te.legra.ph/file/88e92236aa5da3d95d701-9643f343fea54da627.jpg" alt="Melon" height="700"/>
+    <img src="https://files.catbox.moe/hsih7d.jpg" alt="Melon" height="700"/>
   </a>
 </p>
 
