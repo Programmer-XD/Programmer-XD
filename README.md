@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 Who Am I?
+## 𝗪𝗛𝗢 𝗔𝗠 𝗜 ?
 
 <p align="center">
   <b>Hey, I’m Samar from Maharashtra — but most people know me online as Akito / Melon.</b><br>
@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Languages I Use
+## 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘'𝗦 𝗜 𝗨𝗦𝗘 !
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white"/>
 </p>
 
-### 🌱 Languages I'm Learning
+### 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘'𝗦 𝗜'𝗠 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 !
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Tools I Use
+## 𝗧𝗢𝗢𝗟'𝗦 𝗜 𝗨𝗦𝗘 !
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -70,7 +70,7 @@
 
 ---
 
-## 📲 Let's Connect!
+## 𝗟𝗘𝗧'𝗦 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 !
 
 <p align="center">
   <a href="https://telegram.me/akitoxd">
