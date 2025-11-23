@@ -70,30 +70,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=programming-xd&count_private=true&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=programming-xd&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=programmer-xd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-xd&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=programmer-xd&theme=onedark" />
-</p>
-
----
-
 ## 📲 Let's Connect!
 
 <p align="center">
@@ -110,7 +86,3 @@
 
 ---
 
-## 💬 Ask Me Anything
-
-Want to say hi, or curious about something I made?  
-👉 [Drop an issue here](https://github.com/programmer-xd/programmer-xd/issues)
